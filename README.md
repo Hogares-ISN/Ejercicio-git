@@ -162,3 +162,5 @@ ejercicio-git/
 
 **Olvidé hacer pull antes de crear mi rama**
 → `git checkout main && git pull && git checkout -b feature/mi-rama`
+
+## Hola este es un cambio de smenchu el 23 03 2026
